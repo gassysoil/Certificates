@@ -1,7 +1,9 @@
 # Here is the list of Computer Science fundamental courses I've been taking. Certificates included in this folder. 
 
 
+
 # DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200)
+
 
 
 # Introduction to Discrete Mathematics for Computer Science
