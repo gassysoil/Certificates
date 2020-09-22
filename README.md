@@ -1,4 +1,4 @@
-
+# Here is the list of Computer Science fundamental courses I've been taking 
 
 
 # Introduction to Discrete Mathematics for Computer Science
@@ -16,12 +16,16 @@
 + **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)**
 + **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)**
 
+
 # C++
 + **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)**
 + **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
 + **[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
-     * ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
-
+    * ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
+    * ***[Traffic-Simulation-Project](https://github.com/gassysoil/Traffic-Simulation-Project.git)***
+    * ***[System-Monitor-Project](https://github.com/gassysoil/System-Monitor-Project.git)***
+    * ***[Route-Planning-Project](https://github.com/gassysoil/Route-Planning-Project.git)***
+    * ***[Snake-Game-Project](https://github.com/gassysoil/Snake-Game-Project.git)***
 
 
 # Machine Learning
