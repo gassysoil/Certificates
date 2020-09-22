@@ -18,9 +18,9 @@
 + **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)**
 
 # C++
-**[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)**
-**[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
-**[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
++ **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)**
++ **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
++ **[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
 
 
 # Machine Learning
