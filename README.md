@@ -1,6 +1,9 @@
 # Here is the list of Computer Science fundamental courses I've been taking. Certificates included in this folder. 
 
 
+# DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200)
+
+
 # Introduction to Discrete Mathematics for Computer Science
 **[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)**
 + **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)**
