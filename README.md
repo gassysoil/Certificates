@@ -20,7 +20,9 @@
 + **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)**
 + **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
 + **[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
-     ***[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
+     ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
+     ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
+     ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
 
 
 # Machine Learning
