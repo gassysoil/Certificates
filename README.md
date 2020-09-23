@@ -10,15 +10,15 @@
 + **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Delivery%20Problem.pdf)
 
 
-# Accelerated Computer Science Fundamentals Specialization [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
-**[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)**
-+ **[Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)**
-+ **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)**
-+ **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)**
+# Accelerated Computer Science Fundamentals Specialization 
+**[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
++ **[Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Object-Oriented%20Data%20Structures%20in%20C%2B%2B.pdf)
++ **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Ordered%20Data%20Structures.pdf)
++ **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Unordered%20Data%20Structures.pdf)
 
 
 # C++
-+ **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)**
++ **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
 + **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
 + **[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
     * ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
@@ -29,13 +29,13 @@
 
 
 # Machine Learning
-**[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)**
-+ **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)**
-+ **[Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)**
-+ **[Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)**
+**[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Mathematics%20for%20Machine%20Learning.pdf)
++ **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Linear%20Algebra.pdf)
++ **[Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus.pdf)
++ **[Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/PCA.pdf)
 
-**[Machine Learning](https://www.coursera.org/learn/machine-learning?)**
+**[Machine Learning](https://www.coursera.org/learn/machine-learning?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
 
 
 # Python
-**[2020 Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)**
+**[2020 Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
