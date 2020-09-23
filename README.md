@@ -11,7 +11,9 @@
 
 
 # Accelerated Computer Science Fundamentals Specialization
-<kbd><img src="https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf" /></kbd>
+
+<kbd><pdf src="https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf" /></kbd>
+
 **[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)**
 + **[Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)**
 + **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)**
