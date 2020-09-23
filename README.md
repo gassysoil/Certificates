@@ -1,13 +1,13 @@
 # DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200) [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
 
 
-# Introduction to Discrete Mathematics for Computer Science
-**[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)**
-+ **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)**
-+ **[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)**
-+ **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)**
-+ **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)**
-+ **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**
+# Introduction to Discrete Mathematics for Computer Science 
+**[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science.pdf)
++ **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Mathematical%20Thinking%20in%20Computer%20Science.pdf)
++ **[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Combinatorics%20and%20Probability.pdf)
++ **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Introduction%20to%20Graph%20Theory.pdf)
++ **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Number%20Theory%20and%20Cryptography.pdf)
++ **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Delivery%20Problem.pdf)
 
 
 # Accelerated Computer Science Fundamentals Specialization [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
