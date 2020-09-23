@@ -1,4 +1,4 @@
-# DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200)
+# DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200) [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
 
 
 # Introduction to Discrete Mathematics for Computer Science
