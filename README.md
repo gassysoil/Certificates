@@ -19,7 +19,7 @@
 
 # C++
 + **[Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/share/101WoeBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
-+ **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)**
++ **[Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/share/101WveBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Learn%20C%2B%2B%20Programming.pdf)
 + **[NANODEGREE PROGRAM - Become a C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)**
     * ***[Memory-Management-Project](https://github.com/gassysoil/Memory-Management-Project.git)***
     * ***[Traffic-Simulation-Project](https://github.com/gassysoil/Traffic-Simulation-Project.git)***
@@ -34,8 +34,8 @@
 + **[Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Multivariate%20Calculus.pdf)
 + **[Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/PCA.pdf)
 
-**[Machine Learning](https://www.coursera.org/learn/machine-learning?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
+**[Machine Learning](https://www.coursera.org/learn/machine-learning?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Machine%20Learning.pdf)
 
 
 # Python
-**[2020 Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mastering%20Data%20Structures%20%26%20Algorithms%20using%20C%20and%20C%2B%2B.pdf)
+**[2020 Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Complete%20Python%20Bootcamp.pdf)
