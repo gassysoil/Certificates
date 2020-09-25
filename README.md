@@ -28,6 +28,10 @@
     * ***[Snake-Game-Project](https://github.com/gassysoil/Snake-Game-Project.git)***
 
 
+# Python
+**[Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Complete%20Python%20Bootcamp.pdf)
+
+
 # Machine Learning
 **[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Mathematics%20for%20Machine%20Learning.pdf)
 + **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/Linear%20Algebra.pdf)
@@ -35,7 +39,3 @@
 + **[Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Mathematics%20for%20Machine%20Learning/PCA.pdf)
 
 **[Machine Learning](https://www.coursera.org/learn/machine-learning?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Machine%20Learning.pdf)
-
-
-# Python
-**[Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/share/101W8QBEAccF9bQHw=/)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Complete%20Python%20Bootcamp.pdf)
