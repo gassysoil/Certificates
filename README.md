@@ -4,7 +4,7 @@
 # SOFTWARE DEVELOPMENT ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Software%20Development%20Essentials.pdf)
 + **Java and Full Stack Web Development**
 + **Algorithms**
-+ **Data Structures**
++ **Advanced Data Structures**
 + **Object-Oriented Design**
 + **Distributed System**
 + **Scalability**
