@@ -1,6 +1,8 @@
 # DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200) [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
 
 
+# SOFTWARE ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
+
 # Introduction to Discrete Mathematics for Computer Science 
 **[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science.pdf)
 + **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Mathematical%20Thinking%20in%20Computer%20Science.pdf)
