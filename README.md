@@ -1,7 +1,15 @@
 # DATA STRUCTURES PROFICIENCY EXAM: A+ (195/200) [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
 
 
-# SOFTWARE ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Data%20Structures%20Proficiency%20Exam.pdf)
+# SOFTWARE DEVELOPMENT ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Software%20Development%20Essentials.pdf)
+
+
+# Accelerated Computer Science Fundamentals Specialization 
+**[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
++ **[Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Object-Oriented%20Data%20Structures%20in%20C%2B%2B.pdf)
++ **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Ordered%20Data%20Structures.pdf)
++ **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Unordered%20Data%20Structures.pdf)
+
 
 # Introduction to Discrete Mathematics for Computer Science 
 **[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science.pdf)
@@ -10,13 +18,6 @@
 + **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Introduction%20to%20Graph%20Theory.pdf)
 + **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Number%20Theory%20and%20Cryptography.pdf)
 + **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science/Delivery%20Problem.pdf)
-
-
-# Accelerated Computer Science Fundamentals Specialization 
-**[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
-+ **[Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Object-Oriented%20Data%20Structures%20in%20C%2B%2B.pdf)
-+ **[Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Ordered%20Data%20Structures.pdf)
-+ **[Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Unordered%20Data%20Structures.pdf)
 
 
 # C++
