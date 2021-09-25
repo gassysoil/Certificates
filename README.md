@@ -2,12 +2,12 @@
 
 
 # SOFTWARE DEVELOPMENT ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Software%20Development%20Essentials.pdf)
-+ **[Java and Full Stack Web Development]
-+ **[Algorithms]
-+ **[Data Structures]
-+ **[Object-Oriented Design]
-+ **[Distributed System]
-+ **[Scalability]
++ **[Java and Full Stack Web Development]**
++ **[Algorithms]**
++ **[Data Structures]**
++ **[Object-Oriented Design]**
++ **[Distributed System]**
++ **[Scalability]**
 
 # Accelerated Computer Science Fundamentals Specialization 
 **[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
