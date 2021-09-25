@@ -2,7 +2,11 @@
 
 
 # SOFTWARE DEVELOPMENT ESSENTIAL COURSE [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Software%20Development%20Essentials.pdf)
-
+    * ***[Algorithms]***
+    * ***[Traffic-Simulation-Project](https://github.com/gassysoil/Traffic-Simulation-Project.git)***
+    * ***[System-Monitor-Project](https://github.com/gassysoil/System-Monitor-Project.git)***
+    * ***[Route-Planning-Project](https://github.com/gassysoil/Route-Planning-Project.git)***
+    * ***[Snake-Game-Project](https://github.com/gassysoil/Snake-Game-Project.git)***
 
 # Accelerated Computer Science Fundamentals Specialization 
 **[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)** [[Certificate]](https://github.com/gassysoil/Certificates/blob/master/Accelerated%20Computer%20Science%20Fundamentals%20Specialization/Accelerated%20Computer%20Science%20Fundamentals%20Specialization.pdf)
